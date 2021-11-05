@@ -1,5 +1,5 @@
 # Learning about WASM
-This repo hosts a bunch of resources I have worked through or am working through to learn more about WebAssembly.
+This repo hosts a bunch of resources I have worked through or am working through to learn more about WebAssembly. If you have recommendations, please let me know!
 
 
 ## Resources
